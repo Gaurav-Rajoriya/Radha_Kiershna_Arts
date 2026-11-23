@@ -1,0 +1,8 @@
+export { default as About } from './About'
+export { default as Process } from './Process'
+export { default as Contact } from './Contact'
+export { default as Artist } from './About'
+export { default as Craft } from './About'
+export { default as Materials } from './Process'
+export { default as Commission } from './Contact'
+export { default as Enquiry } from './Contact'
